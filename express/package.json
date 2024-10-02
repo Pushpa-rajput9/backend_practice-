@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "just fro practice",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "pushpa rajput",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
